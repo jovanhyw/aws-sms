@@ -31,3 +31,8 @@ Take note that if your AWS SNS is in sandboxed mode, you have to add and verify 
 # run the program
 node index.js
 ```
+
+## References
+
+- https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/sns-examples-sending-sms.html
+- https://docs.aws.amazon.com/sns/latest/dg/sns-sms-sandbox.html
